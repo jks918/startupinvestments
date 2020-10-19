@@ -1,1 +1,1 @@
-
+Folder containing file used to analyze investments in startups. Please also see the Kaggle link where the file was originally obtained: https://www.kaggle.com/arindam235/startup-investments-crunchbase
