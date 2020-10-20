@@ -10,7 +10,7 @@ The following steps detail the general process I took in conducting research and
 
 2. I obtained a spreadsheet of Crunchbase’s startup investment data through Kaggle with the goal of analyzing startups by the amount raised to see where investors were putting their money. The data available is from 2014. 
 
-3. I then analyzed my data using the Pandas library in Python.
+3. I then analyzed my data using Python libraries (Pandas, NumPy, Matplotlib) in a Jupyter notebook.
 
 ## Overview of Startup Investing
 Investments are made in the early stages of a startup and additional investments are made at several succeeding rounds. Investors are essentially “buying a piece of the company with their investment” in exchange for equity, which entails both partial ownership of the startup and rights to any future profits (Fundersclub). A brief breakdown of the rounds is described below:
@@ -26,7 +26,7 @@ Investments are made in the early stages of a startup and additional investments
 - **Series C:** At this round, startups are considered to be successful and are usually looking for additional funding for new products, to expand into new markets, or to acquire other companies. Hundreds of millions are raised at this point, with hedge funds, investment banks, and private equity firms investing.
 
 ## Analysis
-I utilized the Pandas library to conduct data analysis in Python. Please see my [Jupyter notebook](https://github.com/jks918/portfolio/blob/gh-pages/Startup%20Investments%20-%20FINAL.ipynb) detailing my process.
+Please see my [Jupyter notebook](https://github.com/jks918/portfolio/blob/gh-pages/Startup%20Investments%20-%20FINAL.ipynb) detailing my process.
 
 ## Conclusion
 The top five companies that raised the most amount of money from investors included some familiar names, such as Uber and Groupon. The top spot was ultimately taken by Clearwire, a telecommunications operator. Although Clearwire ceased operations as of 2015, this suggests that established companies are able to secure more funding as many investment banks, hedge funds, and private equity firms are looking to make “safer” investments rather than take huge risks by funding unknown or smaller startups.
